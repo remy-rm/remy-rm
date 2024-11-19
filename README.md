@@ -6,7 +6,7 @@ web developer
 
 Ayant toujours été fasciné par la logique des langages de programmation, j'ai décidé de réorienter ma carrière vers le développement web.
 *   🌍  Je suis à Lille
-*   🖥️  Mon Portfolio [https://remymarquis.wixsite.com/portfolio](http://remymarquis.wixsite.com/portfolio)
+*   🖥️  Mon Portfolio [https://remy-rm.github.io/portfolio/](https://remy-rm.github.io/portfolio/)
 *   ✉️  Envoyer-moi un message-ici -> [remy.marquis62121@gmail.om](mailto:remy.marquis62121@gmail.om)
 
 ### Skills 
